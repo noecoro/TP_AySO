@@ -1,0 +1,2 @@
+tcpdump
+Para realizar un dump traffic de la red, ejecuta: tcpdump -i <interface>
