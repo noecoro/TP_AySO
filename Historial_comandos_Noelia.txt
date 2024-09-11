@@ -1,0 +1,53 @@
+/repogit$ cd repo_coro/
+cd repo_coro/
+cd repogit/
+cd repo_coro/
+ls
+git status 
+git add .
+git status 
+git commit -m "primer commmit"
+git config --global user.email "coronoelia@gmail.com"
+git config --global user.name "noecoro"
+git commit -m "primer commit"
+git push
+git remote -v
+git push
+exit
+ls
+whoami
+pwd
+echo "holiii"
+echo $HOME
+man echo
+man ls
+man man
+cd repogit/
+ls
+git clone https://github.com/noecoro/repo_coro.git
+ls
+cd repo_coro/
+ls
+history
+history > historial.txt
+ls
+cd ..
+ls
+cd repo_coro/
+ls
+cd ..
+ls
+cat
+ls -l
+cd repogit/
+ls -l
+cd TP_AySO/
+cat << EOF >> README.md
+Alumno:Noelia, Coro
+Division: 311
+Turno: TN
+EOF
+
+git add README.md
+git commit -m "docs: Actualización de README.md datos alumno"
+history -a
